@@ -16,9 +16,11 @@ Se requiere generar un informe que permita responder los siguientes ítems:
 
 El reporte debe ser interactivo y permitir filtrar los datos por fecha, país y producto. Se deben considerar las visualizaciones a las que se pueden aplicar cada filtro.
 
+![captura-dashobard](./images/captura-dashboard.png)
+
+---
 ### Conjunto de Datos de Ventas
 El [conjunto de datos de ventas](./docs/Datos-Ejercicio_PowerBI.xlsx) contiene información sobre transacciones de ventas, incluyendo detalles como país, producto, cantidad vendida, precio unitario y fecha de venta.
-
 
 ### Contenido del Repositorio
 - `dashboard`: Archivo de Power BI sobre el informe de ventas, y una versión en pdf del dashboard para vista rápida.
