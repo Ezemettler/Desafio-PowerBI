@@ -2,7 +2,7 @@
 # Desafío Técnico: Informe de Ventas en Power BI
 ![equipo-comercial](./images/ventas.jpg)
 
-Este repositorio contiene el código y los recursos utilizados para generar un informe de ventas en Power BI como parte de un desafío técnico en una entrevista.
+Este repositorio contiene los recursos utilizados para generar un informe de ventas en Power BI como parte de un desafío técnico.
 
 ### Descripción del Desafío
 Se requiere generar un informe que permita responder los siguientes ítems:
