@@ -20,9 +20,9 @@ El [conjunto de datos de ventas](./docs/Datos-Ejercicio_PowerBI.xlsx) contiene i
 
 
 ### Contenido del Repositorio
-- `dashboard/`: Archivo de Power BI sobre el informe de ventas, y una versión en pdf del dashboard para vista rápida.
-- `docs/`: Conjunto de datos de ventas en formato CSV.
-- `images/`: Imagenes utilizadas en el dashboard como en el readme.
+- `dashboard`: Archivo de Power BI sobre el informe de ventas, y una versión en pdf del dashboard para vista rápida.
+- `docs`: Conjunto de datos de ventas en formato CSV.
+- `images`: Imagenes utilizadas en el dashboard como en el readme.
 
 ---
 **Ezequiel Mettler**
